@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/cypghost/Pokedex.git
 
 2. Navigate to the project directory:
 
