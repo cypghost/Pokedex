@@ -22,8 +22,6 @@ This is a modern web application built with **Next.js**, **TypeScript**, and **T
 - **Error Handling**: Graceful error messages if the API call fails.
 - **Skeleton Loader**: Display a loading state while data is being fetched.
 
-![Dark Mode Screenshot](/path/to/dark-mode-image.png)
-
 ## Installation
 
 To run this project locally, follow these steps:
