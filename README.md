@@ -2,7 +2,7 @@
 
 This is a modern web application built with **Next.js**, **TypeScript**, and **Tailwind CSS**, which fetches and displays Pokémon data from the PokéAPI. The app allows users to dynamically search for Pokémon, view their details, and navigate through paginated results. Additionally, it includes a dark mode toggle, ensuring a responsive and user-friendly experience.
 
-![App Screenshot](/path/to/image.png) 
+![App Screenshot](https://github.com/cypghost/Pokedex/Public/Landing Page.png) 
 
 ## Features
 
